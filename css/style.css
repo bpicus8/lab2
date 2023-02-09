@@ -64,5 +64,5 @@ input[type="submit"]:hover {
 @media only screen and (max-width: 600px) {
   body {
 	font-size: 36px;
-    max-width: 33%;
+    width: 33%;
   }
