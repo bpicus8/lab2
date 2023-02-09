@@ -61,8 +61,8 @@ input[type="submit"]:hover {
   background-color: #484848;
 }
 
-@media only screen and (max-width: 480px) {
+@media only screen and (max-width: 600px) {
   body {
-    width: 50%;
+    max width: 100%;
   }
 }
