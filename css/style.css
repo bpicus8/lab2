@@ -62,7 +62,6 @@ input[type="submit"]:hover {
 }
 
 @media only screen and (max-width: 480px) {
-  body {
-	font-size: 36px;
-    width: 33%;
+  form {
+    max-width: 100%;
   }
