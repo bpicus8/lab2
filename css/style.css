@@ -36,16 +36,18 @@ label {
   margin-left: 50px;
 }
 
+
+
 input[type="text"], select {
   width: 100%;
   padding: 10px;
   font-size: 16px;
   border-radius: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid red;
 }
 
 input[type="submit"] {
-  width: 100%;
+  width: 50px;
   padding: 10px;
   font-size: 16px;
   font-weight: bold;
